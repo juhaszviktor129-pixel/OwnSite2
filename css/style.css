@@ -1,0 +1,13 @@
+.bodyMain{
+    background-image: url("../img/mainroad.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.mainTitle{
+    background-color: gray;
+    padding: 10pt;
+    border: black solid 3pt;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
